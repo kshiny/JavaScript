@@ -1,6 +1,5 @@
-[미션1] 상자의 크기와 위치를 변경하기
 
-```jsx
+```j
 $(function() {
 
     $('button').click(function() {
